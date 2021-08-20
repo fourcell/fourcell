@@ -24,8 +24,10 @@ let router = [
             path: '/manage/goods/goodsBrand',
             name: '品牌管理',
         },
-
-
+        {
+            path: '/src/pages/manage/deit_video',
+            name: '视频编辑',
+        },
         ]
     },
     {

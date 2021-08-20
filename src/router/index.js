@@ -11,7 +11,7 @@ const routes = [
         path: '/login',
         name: 'login',
         alias: '/',
-        component: () => import('../pages/log')
+        component: () => import('../pages/manage/deit_video')
     },
     {
         path: '/manage',
